@@ -3,7 +3,7 @@
 This app is made using MERN Technology with full access to backend but currently users are not allowed to add any person in the app. This app is just for the basics. 
 
 # Deployment
-frontend : firebase
+frontend : firebase  
 backend : nodejs
 
 # link for viewing application
